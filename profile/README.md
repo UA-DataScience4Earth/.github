@@ -1,5 +1,14 @@
 ## University of Arizona Data Science for Earth Meetup
 
+### Meetup schedule
+All meetups scheduled from 3:30-5:00 pm unless otherwise noted.
+
+- Oct 11: ENR2 N595
+- Oct 25: ENR2 N595
+- Nov 08: Room TBD (probably ENR2 N595 or Harshbarger 110)
+- Nov 22: ENR2 N595
+
+
 ### Motivation
 The Earth sciences, broadly defined, are undergoing a revolution where rapidly expanding computational capabilities and availability of large, public datasets are driving innovations in the research process. The rapid nature of these changes have made it challenging for the geoscience community to coalesce around norms and practices that could advance scientific impact and foster interdisciplinary collaboration. 
 
