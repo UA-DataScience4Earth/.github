@@ -6,7 +6,6 @@ All meetups scheduled from 3:30-5:00 pm unless otherwise noted.
 - Oct 11: ENR2 N595
 - Oct 25: ENR2 N595
 - Nov 08: Room TBD (probably ENR2 N595 or Harshbarger 110)
-- Nov 22: ENR2 N595
 
 
 ### Motivation
