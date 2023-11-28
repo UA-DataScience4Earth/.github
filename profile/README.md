@@ -1,11 +1,8 @@
 ## University of Arizona Data Science for Earth Meetup
 
 ### Meetup schedule
-All meetups scheduled from 3:30-5:00 pm unless otherwise noted.
 
-- Oct 11: ENR2 N595
-- Oct 25: ENR2 N595
-- Nov 08: Room TBD (probably ENR2 N595 or Harshbarger 110)
+The meetup schedule for the Spring 2024 semester has not yet been set - please check back or contact andrbenn@arizona.edu for more information!
 
 
 ### Motivation
